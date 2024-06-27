@@ -1,0 +1,30 @@
+1. Write a javascript progaram which is return an array  that conatin only unique element
+
+2. /* what is the out put of the following code */
+(function () {
+  a = b = 36;
+});
+console.log("a " + typeof a);
+console.log("b " + typeof b);
+
+4. how to find duplicate element in a given array 
+
+5. How to find an a largest and smallest element in an array 
+
+6. find the vowels the string
+
+7. write a javascript program that arrange array in a assending and dessinding order
+
+8. what is the difference between "==" and "===" operator
+
+9.  In a array find a  second largest element an  remove the largest element by index
+
+10. find the missing element in the given array
+
+11. find the even and odd number in the given array 
+
+12. write a program to find the factiorial of the   given number.
+
+13. write a  program to find the sum of the  array 
+
+14. wirte a program that accept a number and it need to return weather it is prime or not
