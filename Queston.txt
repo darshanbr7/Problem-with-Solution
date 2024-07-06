@@ -28,3 +28,34 @@ console.log("b " + typeof b);
 13. write a  program to find the sum of the  array 
 
 14. wirte a program that accept a number and it need to return weather it is prime or not
+
+15. count the number of vowels in the string !
+
+16. what is a difference between deepCopy and shallow copy method?
+
+17 . write a program to check string is a  palendrome or not ?
+
+18. Write a javascript program that count the number of repated elememnt in a string  and return the maximum repeated value and its count
+
+19.write a program to reverse an a integer 
+
+20.  write a program to print if the number  is divisable by 3 print "fizz"  if the number  is divisable by 5 print "buzz"
+ if the number  is divisable by 3 & 5 print "fizz buzz"
+
+21. write a program to merge two array and sort  them 
+
+22. write a program to find the factor  of the given number
+
+23. write  a program to   find the two arrays are same  are  not
+
+24. how to find the  intersection of the two array in javascript
+
+25.  find the union of the two arrays
+
+26. write a program  to convert first letter of the string to upper Case
+
+27. find the fibanacci  number 
+
+28.  write a program to print a * in right triangle , diamond  pyramid shape
+
+29. Program to Check Armstrong Number in JavaScript
