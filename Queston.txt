@@ -59,3 +59,5 @@ console.log("b " + typeof b);
 28.  write a program to print a * in right triangle , diamond  pyramid shape
 
 29. Program to Check Armstrong Number in JavaScript
+
+30  write a javascript program to find the largest  and  smallest  in 3 number
