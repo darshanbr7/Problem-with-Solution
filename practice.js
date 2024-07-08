@@ -1,12 +1,20 @@
-/* let user1 = { name : "darshan", age : 21};
-let user2 = user1;
-user2.age = 22
-console.log(user1); */
+const person1 = {
+   name : "ramu",
+   age : 47,
+   address :{
+       place : "bolare",
+       state : "karnataka"
+       }
+}
 
-let user3 = {name : "raju", age : 47}
-let user4 = Object.assign({},user3);
-let user5 = Object.assign(user3);
-user4.place = "bolare";
-user4.age = 48;
-console.log(user3);
-console.log(user4);
+let person2 = Object.assign({}, person1);
+person2.address.place = "Kowdly"
+console.log( person1.address.place );
+console.log( person2.address.place );
+
+console.log(" __________");
+
+let person3 = JSON.parse(JSON.stringify(person1))
+person3.address.place = "maddur"
+console.log( person1.address.place );
+console.log( person3.address.place );
