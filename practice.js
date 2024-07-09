@@ -1,20 +1,22 @@
-const person1 = {
-   name : "ramu",
-   age : 47,
-   address :{
-       place : "bolare",
-       state : "karnataka"
-       }
-}
+/*  function findDuplicates( str ){
+    let letterSet = new Set();
+    let status = true;
+    for (let ele  of str){
+        if(letterSet.has(ele)){
+            status = false;
+            break;
+        }else{
+            letterSet.add(ele);
+        }
+    }
+    return status;
+    }
 
-let person2 = Object.assign({}, person1);
-person2.address.place = "Kowdly"
-console.log( person1.address.place );
-console.log( person2.address.place );
+console.log(findDuplicates("abcd"));
+console.log(findDuplicates("aba")); 
+console.log(findDuplicates("hello")); 
 
-console.log(" __________");
+ */
 
-let person3 = JSON.parse(JSON.stringify(person1))
-person3.address.place = "maddur"
-console.log( person1.address.place );
-console.log( person3.address.place );
+let arr = [ 10, 20, 30, 40, 50, "user"];
+console.log(arr.indexOf("user"));
