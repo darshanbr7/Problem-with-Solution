@@ -61,3 +61,11 @@ console.log("b " + typeof b);
 29. Program to Check Armstrong Number in JavaScript
 
 30  write a javascript program to find the largest  and  smallest  in 3 number
+
+31.  find a duplicate in a word if the letter is repeated then output will be false or true 
+
+32. This kata requires you to write a function which merges two strings together. It does so by merging the end of the first string with the start of the second string together when they are an exact match.
+
+33.  Find the difference between the square of the sum of the first n natural numbers (1 <= n <= 100) and the sum of their squares.
+
+34. 
