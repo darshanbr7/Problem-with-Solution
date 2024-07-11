@@ -68,4 +68,9 @@ console.log("b " + typeof b);
 
 33.  Find the difference between the square of the sum of the first n natural numbers (1 <= n <= 100) and the sum of their squares.
 
-34. 
+34.    The function should take three arguments - operation(string/char), value1(number), value2(number).
+The function should return result of numbers after applying the chosen operation.
+
+35 . Count the number of divisors of a positive integer n.
+
+36. convert number to string 
