@@ -74,3 +74,18 @@ The function should return result of numbers after applying the chosen operation
 35 . Count the number of divisors of a positive integer n.
 
 36. convert number to string 
+
+38.  how to compare the two object in javascrpt
+
+39. find the single element in the array
+
+40 . how to empty the array in javascript
+
+41. what is the output for the following code
+console.log(2 == 2);
+console.log(2 == 2 == 2);
+console.log(2 == 2 == 2 == 0);
+
+42. when we are going to use Number()  and ParseInt() method in js
+
+43.  default parameter in js
