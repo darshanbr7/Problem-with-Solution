@@ -89,3 +89,5 @@ console.log(2 == 2 == 2 == 0);
 42. when we are going to use Number()  and ParseInt() method in js
 
 43.  default parameter in js
+
+44. write a program to find the single reapeated value in a array
